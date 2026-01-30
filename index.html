@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JobQuest | Application Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>JobQuest</h1>
+            <p>Track your journey to your dream job.</p>
+        </header>
+
+        <section class="form-container">
+            <input type="text" id="companyInput" placeholder="Company Name" required>
+            <input type="text" id="roleInput" placeholder="Job Role (e.g. Frontend Intern)" required>
+            <select id="statusInput">
+                <option value="Applied">Applied</option>
+                <option value="Interview">Interview</option>
+                <option value="Offer">Offer</option>
+                <option value="Rejected">Rejected</option>
+            </select>
+            <button id="addBtn">Add Application</button>
+        </section>
+
+        <div id="jobList" class="job-list">
+            </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

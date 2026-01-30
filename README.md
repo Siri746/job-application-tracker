@@ -1,18 +1,21 @@
-# Job Application Tracking System (Backend)
+# 🚀 JobQuest: Job Application Tracker
 
-A RESTful backend service to manage and track job applications.
+A clean, lightweight web application built to help job seekers organize their applications in one place. This project demonstrates core Frontend development skills including DOM manipulation, State Management, and Data Persistence.
 
-## Tech Stack
-- Node.js
-- Express
-- MongoDB
-- Mongoose
+## ✨ Features
+- **Add Applications:** Quickly log company name, role, and application status.
+- **Persistent Storage:** Uses browser `LocalStorage` so your data remains even after refreshing the page.
+- **Dynamic UI:** Colorful status badges that update based on the application stage.
+- **Responsive Design:** Fully functional on both mobile and desktop screens.
+- **Delete Functionality:** Remove old or accidental entries instantly.
 
-## Features
-- Create and retrieve job applications
-- Status tracking (Applied, Interview, Offer, Rejected)
-- REST API design
+## 🛠️ Tech Stack
+- **HTML5:** Semantic structure.
+- **CSS3:** Custom styling with Flexbox and modern gradients.
+- **JavaScript (ES6+):** Logic for CRUD operations and data handling.
 
-## Run Locally
-npm install  
-node server.js
+## 🚀 Live Demo
+[Insert your Vercel Link Here]
+
+## 📸 Screenshots
+*(Tip: Add a screenshot of your app here to make the README pop!)*

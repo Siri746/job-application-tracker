@@ -15,7 +15,7 @@ A clean, lightweight web application built to help job seekers organize their ap
 - **JavaScript (ES6+):** Logic for CRUD operations and data handling.
 
 ## 🚀 Live Demo
-[Insert your Vercel Link Here]
+(https://job-application-tracker-ai4z.vercel.app/)
 
 ## 📸 Screenshots
 <img width="1033" height="656" alt="image" src="https://github.com/user-attachments/assets/3ee352d4-04fa-4a73-b8ec-3f43f949ec13" />
